@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/11/16/16370806417934.jpg);
+    background-repeat: no-repeat;
+}
+p{
+    color:rgb(8, 66, 34)
+    font-size:blue
+}
+h3{color: rgb(51, 55, 116);
+    background-color: rgb(133, 94, 23);
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h4{background-color:rgb(36, 4, 13);
+    color:rgb(48, 112, 141)
+    
+}
